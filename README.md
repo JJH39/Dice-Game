@@ -1,5 +1,5 @@
 # Dice-Game
-This game was a project on a JS learning course.
+This game was a project on a JS Udemy course.
 
 HTML and CSS was provided so as to focus on JS but there was some manipulation and edits made to the HTML and CSS code throughout the project.
 
